@@ -2,6 +2,7 @@ This is a 3D Android game made in Unity. This is my first game in Unity.
 Durtion of the project was 1 month.
 <br>
 
+
 <b>Technologies used</b>
 
 1. Unity 3D game engine (C# scripting).
