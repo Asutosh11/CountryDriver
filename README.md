@@ -1,6 +1,6 @@
 This is a 3D Android game made in Unity. This is my first game in Unity. 
 Durtion of the project was 1 month.
-<br>
+<br><br>
 
 
 <b>Technologies used</b>
