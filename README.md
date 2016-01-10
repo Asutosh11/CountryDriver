@@ -1,3 +1,16 @@
+This is a 3D Android game made in Unity. This is my first game in Unity. 
+Durtion of the project was 1 month.
+
+<br><br>
+
+<b>Technologies used</b> <br><br
+
+1. Unity 3D game engine (C# scripting).
+2. Blender - for creating models (blender internal and cycles rendering engines used).
+3. Picmonkey.com - For cover photos editing
+
+<br><br>
+
 <b>Screenshots</b>
 
 1. <br>
