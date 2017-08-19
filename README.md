@@ -2,6 +2,9 @@ This is a 3D Android game made in Unity. This is my first game in Unity.
 Durtion of the project was 1 month.
 <br><br>
 
+Its a fork of the original work I had done under Pirocket.com. 
+Pirocket.com was my personal website where I used to release open source games. In mid 2015, I closed the website.
+<br><br>
 
 <b>Technologies used</b>
 
